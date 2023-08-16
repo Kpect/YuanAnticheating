@@ -1,0 +1,2 @@
+#设置当前游戏的标题(支持PCL)如果你没有使用插件或者PCL更改，那么直接更改为当前多人游戏的标题。
+windowTitle: "My Server Title"

@@ -1,0 +1,5 @@
+# mods.yml
+
+#设置玩家应该具有的 mod 数量
+#没有mod则设置为0
+required_mod_count: 5

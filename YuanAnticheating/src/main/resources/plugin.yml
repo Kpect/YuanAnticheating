@@ -1,0 +1,11 @@
+name: YuanAnticheating
+version: '${project.version}'
+main: org.soldier.yuananticheating.Main
+api-version: '1.20'
+author: Kpect
+description: https://space.bilibili.com/480681111
+
+commands:
+  yuanreload:
+    description: Reloads Plugins
+    usage: /yuanreload
